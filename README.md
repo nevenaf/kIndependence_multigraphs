@@ -1,2 +1,7 @@
-# kIndependence_multigraphs
-IPython notebooks for analysis of k-independence for multigraphs
+# k-Independence for multigraphs
+
+IPython notebooks for:
+- building random multi-graphs
+- performing a new deletion operator on degree sequence
+- analysis of k-independence
+- exploring possible proofing techniques
