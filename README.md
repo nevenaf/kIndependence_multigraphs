@@ -1,4 +1,6 @@
-# k-Independence for multigraphs
+# k-Independence sets of multigraphs
+
+The following code aims to examin a procedural construction of a minimum $k$-independent set for a given multi-graphical degree sequence. 
 
 IPython notebooks for:
 - building random multi-graphs
